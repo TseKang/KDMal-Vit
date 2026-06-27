@@ -1,5 +1,7 @@
 # KDMal-Vit: 基于知识蒸馏与 Prompt Learning 的恶意软件图像分类
 
+[English Version](README_EN.md)
+
 ## 项目简介
 
 本项目基于 Vision Transformer (ViT) 实现恶意软件灰度图分类，结合 **Prompt Learning** 与 **Knowledge Distillation** 技术，在保持较高分类准确率的同时显著降低模型推理开销。
